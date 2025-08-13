@@ -1,5 +1,5 @@
 """
-print("sdada")  #字符串    只要引号的都是字符串/11
+print("sdada")  #字符串    只要引号的都是字符串/111
 print(222)     #整数
 print(1.22)    #小数
 print(True)    #布尔值 True False
